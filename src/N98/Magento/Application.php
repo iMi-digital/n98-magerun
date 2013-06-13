@@ -357,7 +357,7 @@ class Application extends BaseApplication
 
     public function getLongVersion()
     {
-        return parent::getLongVersion() . ' by <info>netz98 new media GmbH</info>';
+        return parent::getLongVersion() . ' by <info>netz98 new media GmbH</info> // <info>iMi digital GmbH fork</info>';
     }
 
     /**
